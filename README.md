@@ -10,8 +10,6 @@ Built using **HTML, CSS, and JavaScript**, the application combines a Pomodoro t
 
 🔗 https://soumyafernandez.github.io/StudyBuddy/
 
-> *(Update this link if your repository name is different.)*
-
 ---
 
 # 📸 Project Preview
@@ -47,22 +45,6 @@ Built using **HTML, CSS, and JavaScript**, the application combines a Pomodoro t
 - CSS3
 - JavaScript (Vanilla)
 - Local Storage
-
----
-
-# 📂 Project Structure
-
-```text
-StudyBuddy/
-│
-├── index.html
-├── style.css
-├── script.js
-├── screenshots/
-│   ├── dashboard.png
-│   └── features.png
-└── README.md
-```
 
 ---
 
@@ -145,26 +127,6 @@ This project helped me practice:
 
 ---
 
-# 💻 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/soumyafernandez/StudyBuddy.git
-```
-
-Navigate into the project:
-
-```bash
-cd StudyBuddy
-```
-
-Open `index.html` in your browser.
-
-No additional dependencies are required.
-
----
-
 # 👨‍💻 Author
 
 **Soumya Fernandez**
@@ -173,4 +135,3 @@ No additional dependencies are required.
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a Star!
