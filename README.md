@@ -8,7 +8,7 @@ Built using **HTML, CSS, and JavaScript**, the application combines a Pomodoro t
 
 ## 🌐 Live Demo
 
-🔗 https://soumyafernandez.github.io/StudyBuddy/
+🔗 https://soumyafernandez.github.io/Studybuddy/
 
 ---
 
